@@ -10,9 +10,9 @@ Blog post: coming soon
 # Assembled board
 
 
-![picture](https://github.com/Chromico/Raspberry-Pi-Screw-Terminal-Shield/blob/main/photos/1.jpg)
-![picture](https://github.com/Chromico/Raspberry-Pi-Screw-Terminal-Shield/blob/main/photos/2.jpg)
-![picture](https://github.com/Chromico/Raspberry-Pi-Screw-Terminal-Shield/blob/main/photos/3.jpg)
+![picture](https://github.com/Chromico/Raspberry-Pi-Pico-Breakout-Board/blob/main/photos/1.jpg)
+![picture](https://github.com/Chromico/Raspberry-Pi-Pico-Breakout-Board/blob/main/photos/2.jpg)
+![picture](https://github.com/Chromico/Raspberry-Pi-Pico-Breakout-Board/blob/main/photos/3.jpg)
 
 # Documentation
 You can get the official documentation here: 
