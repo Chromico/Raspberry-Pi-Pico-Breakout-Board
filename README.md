@@ -15,7 +15,7 @@ Blog post: coming soon
 ![picture](https://github.com/Chromico/Raspberry-Pi-Pico-Breakout-Board/blob/main/photos/3.jpg)
 
 # Documentation
-You can get the official documentation here: 
+You can get the official documentation here: https://github.com/Chromico/Raspberry-Pi-Pico-Breakout-Board/blob/main/documentation/Raspberry%20Pi%20Pico%20Breakout%20Board%20Documentation.pdf
 
 # Certification
 Pending
